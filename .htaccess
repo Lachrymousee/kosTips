@@ -1,0 +1,6 @@
+Options -Indexes
+DirectoryIndex index.php
+RedirectMatch 404 "(^|/)\.(git|svn)(/|$)"
+<FilesMatch "^(config(\.local|\.local\.example)?\.php|README\.md|\.gitignore)$">
+    Require all denied
+</FilesMatch>

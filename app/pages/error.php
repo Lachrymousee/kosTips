@@ -1,0 +1,3 @@
+<div class="page-heading"><div><p class="eyebrow">STATUS <?=h($data['status'])?></p><h1>Permintaan belum berhasil</h1><p><?=h($data['message'])?></p></div></div>
+<?php if($data['status']>=500):?><div class="setup-help"><p>Periksa tiga hal ini:</p><ol><li>Apache dan MySQL sudah berjalan di XAMPP.</li><li>File <code>database/kostips.sql</code> sudah diimpor melalui phpMyAdmin ke database <code>kostips_php</code>.</li><li>Pengaturan koneksi sesuai dan PHP dapat membuat folder penyimpanan di luar <code>htdocs</code>.</li></ol><p>Petunjuk lengkap tersedia di README yang disertakan dalam source code.</p></div><?php endif;?>
+<a class="button secondary" href="index.php">Kembali ke beranda</a>
