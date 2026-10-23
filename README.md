@@ -1,4 +1,5 @@
 # kosTips
+# buat integrasi cek MD di folder docs
 
 Versi percobaan forum anak kos menggunakan **PHP native, HTML, CSS, dan MySQL/MariaDB**. Tampilan halaman dibuat di server. Tidak ada file JavaScript, `fetch`, npm, Composer, atau langkah CMD/PowerShell untuk menjalankan website.
 
