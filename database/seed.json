@@ -1,0 +1,269 @@
+{
+  "users": [
+    {
+      "id": "me",
+      "name": "P",
+      "initials": "P",
+      "color": "#eaf4e4"
+    },
+    {
+      "id": "rani",
+      "name": "Rani Putri",
+      "initials": "RP",
+      "color": "#f5eede"
+    },
+    {
+      "id": "adit",
+      "name": "Aditya R.",
+      "initials": "AR",
+      "color": "#e9f0f2"
+    },
+    {
+      "id": "nisa",
+      "name": "Nisa Aulia",
+      "initials": "NA",
+      "color": "#eeeaf4"
+    },
+    {
+      "id": "dimas",
+      "name": "Dimas",
+      "initials": "DM",
+      "color": "#eaf1e1"
+    },
+    {
+      "id": "salsa",
+      "name": "Salsa",
+      "initials": "SA",
+      "color": "#f6ebe4"
+    }
+  ],
+  "threads": [
+    {
+      "id": "t1",
+      "category": "Memasak",
+      "title": "Menu seminggu dengan satu rice cooker, masak apa saja?",
+      "body": "Baru pindah kos dan alat masak yang ada cuma rice cooker. Lagi cari ide menu yang bahannya bisa dipakai beberapa kali supaya nggak banyak sisa.\n\nSudah coba nasi telur dan nasi ayam sederhana. Tapi kalau menunya itu terus, lama-lama bosan juga.\n\nTeman-teman yang biasa masak pakai rice cooker, biasanya bikin apa? Kalau bisa bahannya mudah dicari di warung dekat kos dan nggak perlu disimpan di kulkas.\n\nBoleh berbagi ide menu atau pengalaman kalian, ya.",
+      "author": {
+        "id": "rani",
+        "name": "Rani Putri",
+        "initials": "RP",
+        "color": "#f5eede"
+      },
+      "createdAt": "2026-10-21T03:00:00.000Z",
+      "attachments": [],
+      "replies": [
+        {
+          "id": "r1",
+          "author": {
+            "id": "nisa",
+            "name": "Nisa Aulia",
+            "initials": "NA",
+            "color": "#eeeaf4"
+          },
+          "body": "Aku biasanya pilih satu bahan utama lalu ganti pelengkapnya. Telur bisa jadi nasi telur, telur kukus, atau teman sayur. Jadi belanjanya nggak terlalu banyak.",
+          "createdAt": "2026-10-21T03:10:00Z"
+        },
+        {
+          "id": "r2",
+          "author": {
+            "id": "me",
+            "name": "P",
+            "initials": "P",
+            "color": "#eaf4e4"
+          },
+          "body": "Aku juga baru coba masak pakai rice cooker. Ikut menyimak, terutama menu yang nggak perlu kulkas.",
+          "createdAt": "2026-10-21T03:20:00Z"
+        }
+      ]
+    },
+    {
+      "id": "t2",
+      "category": "Hemat Pengeluaran",
+      "title": "Cara kalian mencatat pengeluaran kecil supaya nggak kebablasan?",
+      "body": "Kopi, laundry, dan jajan sore ternyata kalau ditotal lumayan juga. Kalian lebih nyaman pakai aplikasi, spreadsheet, atau catatan biasa?\n\nAku lagi coba mencatat pengeluaran harian. Masalahnya, sering lupa memasukkan pengeluaran yang kecil-kecil.\n\nPengen punya cara yang simpel dan nggak makan waktu lama. Ada yang sudah menemukan kebiasaan mencatat yang cocok?",
+      "author": {
+        "id": "adit",
+        "name": "Aditya R.",
+        "initials": "AR",
+        "color": "#e9f0f2"
+      },
+      "createdAt": "2026-10-21T02:00:00.000Z",
+      "attachments": [],
+      "replies": [
+        {
+          "id": "r3",
+          "author": {
+            "id": "dimas",
+            "name": "Dimas",
+            "initials": "DM",
+            "color": "#eaf1e1"
+          },
+          "body": "Aku pakai catatan di ponsel dulu setiap habis belanja. Baru dipindahkan ke spreadsheet kalau sudah di kos.",
+          "createdAt": "2026-10-21T02:20:00Z"
+        }
+      ]
+    },
+    {
+      "id": "t3",
+      "category": "Kebersihan",
+      "title": "Kamar tetap terasa pengap meski sudah dibersihkan",
+      "body": "Jendela kamar menghadap lorong, jadi anginnya memang sedikit. Ada cara sederhana supaya kamar terasa lebih segar?\n\nSprei sudah diganti dan lantai rutin dibersihkan. Barang juga sudah dikurangi, tapi kamar tetap terasa pengap terutama sore hari.\n\nAda yang punya kondisi kamar serupa? Aku ingin mencoba memperbaiki sirkulasi udara dulu sebelum membeli barang tambahan.",
+      "author": {
+        "id": "nisa",
+        "name": "Nisa Aulia",
+        "initials": "NA",
+        "color": "#eeeaf4"
+      },
+      "createdAt": "2026-10-21T01:00:00.000Z",
+      "attachments": [],
+      "replies": [
+        {
+          "id": "r4",
+          "author": {
+            "id": "salsa",
+            "name": "Salsa",
+            "initials": "SA",
+            "color": "#f6ebe4"
+          },
+          "body": "Di kosku, barang yang menutupi jendela ternyata cukup berpengaruh. Setelah rak digeser, aliran udaranya terasa lebih baik.",
+          "createdAt": "2026-10-21T01:20:00Z"
+        }
+      ]
+    },
+    {
+      "id": "t4",
+      "category": "Perawatan Barang",
+      "title": "Cara merawat sepatu yang sering kehujanan",
+      "body": "Belakangan hampir setiap pulang kuliah sepatu basah. Biasanya kalian mengeringkannya di kamar kos dengan cara apa?\n\nTidak ada tempat jemur yang kena matahari langsung. Aku sudah melepas insole dan mengangin-anginkan sepatu, tapi kadang masih lembap.\n\nBoleh berbagi pengalaman merawat sepatu sehari-hari di kos? Terutama supaya bentuknya tetap bagus.",
+      "author": {
+        "id": "dimas",
+        "name": "Dimas",
+        "initials": "DM",
+        "color": "#eaf1e1"
+      },
+      "createdAt": "2026-10-21T00:00:00.000Z",
+      "attachments": [],
+      "replies": []
+    },
+    {
+      "id": "t5",
+      "category": "Hemat Pengeluaran",
+      "title": "Belanja kebutuhan kos bareng teman, lebih praktis nggak?",
+      "body": "Lagi kepikiran patungan sabun cuci dan perlengkapan bersih-bersih dengan teman satu lantai. Penasaran cara membaginya supaya jelas.\n\nKami biasanya belanja sendiri-sendiri. Padahal beberapa kebutuhan bisa dipakai bersama.\n\nKalau kalian pernah belanja bareng, pembagian biaya dan penyimpanannya bagaimana? Apa saja yang lebih cocok tetap dibeli sendiri?",
+      "author": {
+        "id": "salsa",
+        "name": "Salsa",
+        "initials": "SA",
+        "color": "#f6ebe4"
+      },
+      "createdAt": "2026-10-20T23:00:00.000Z",
+      "attachments": [],
+      "replies": []
+    },
+    {
+      "id": "t6",
+      "category": "Perawatan Barang",
+      "title": "Menata meja belajar kecil supaya tetap nyaman",
+      "body": "Meja di kamar cuma cukup untuk laptop dan beberapa buku. Aku sedang mencoba menata ulang supaya bisa dipakai belajar dan makan bergantian.\n\nSaat ini kabel charger masih berantakan dan buku menumpuk di samping laptop.\n\nRencananya ingin pakai kotak kecil untuk alat tulis dan tempat kabel. Ada ide penataan yang bisa dilakukan dengan barang yang sudah ada?",
+      "author": {
+        "id": "me",
+        "name": "P",
+        "initials": "P",
+        "color": "#eaf4e4"
+      },
+      "createdAt": "2026-10-20T22:00:00.000Z",
+      "attachments": [],
+      "replies": []
+    },
+    {
+      "id": "t7",
+      "category": "Memasak",
+      "title": "Bahan makanan apa yang selalu kalian stok di kos?",
+      "body": "Mau mulai masak lebih rutin, tapi belum tahu bahan dasar apa saja yang benar-benar sering terpakai.\n\nDi kamar ada rak kecil untuk bahan makanan. Aku berencana belanja sedikit dulu supaya bisa tahu kebutuhannya.\n\nKalian biasanya menyediakan bahan apa? Dan bagaimana mengatur jumlah belanjanya?",
+      "author": {
+        "id": "nisa",
+        "name": "Nisa Aulia",
+        "initials": "NA",
+        "color": "#eeeaf4"
+      },
+      "createdAt": "2026-10-20T21:00:00.000Z",
+      "attachments": [],
+      "replies": []
+    },
+    {
+      "id": "t8",
+      "category": "Kebersihan",
+      "title": "Jadwal bersih-bersih kamar yang realistis saat kuliah padat",
+      "body": "Sering menunda sampai akhir pekan, lalu ternyata tugas sudah menumpuk. Mau coba membagi pekerjaan sedikit setiap hari.\n\nAku ingin membuat jadwal ringan, seperti merapikan meja setelah belajar dan menyapu sebentar sebelum berangkat.\n\nAda kebiasaan kecil yang membuat kamar kalian tetap rapi tanpa perlu bersih-bersih besar setiap minggu?",
+      "author": {
+        "id": "rani",
+        "name": "Rani Putri",
+        "initials": "RP",
+        "color": "#f5eede"
+      },
+      "createdAt": "2026-10-20T20:00:00.000Z",
+      "attachments": [],
+      "replies": []
+    },
+    {
+      "id": "t9",
+      "category": "Perawatan Barang",
+      "title": "Menyimpan kabel dan charger tanpa jadi satu gulungan besar",
+      "body": "Setiap mau mengambil satu kabel, yang lain ikut tertarik. Bagaimana kalian mengatur kabel di laci kecil?\n\nAda kabel laptop, ponsel, dan beberapa kabel cadangan. Mau merapikan semuanya dengan pemisah sederhana.\n\nLebih enak pakai kantong terpisah atau pengikat kabel? Ceritakan cara kalian, ya.",
+      "author": {
+        "id": "adit",
+        "name": "Aditya R.",
+        "initials": "AR",
+        "color": "#e9f0f2"
+      },
+      "createdAt": "2026-10-20T19:00:00.000Z",
+      "attachments": [],
+      "replies": []
+    },
+    {
+      "id": "t10",
+      "category": "Hemat Pengeluaran",
+      "title": "Membagi uang belanja mingguan dan kebutuhan mendadak",
+      "body": "Lagi belajar menyusun anggaran sendiri. Kadang kebutuhan seperti isi ulang air atau beli alat tulis muncul bersamaan.\n\nAku mencoba memisahkan uang makan, transportasi, dan kebutuhan kos. Namun masih suka mengambil dari bagian lain kalau ada pengeluaran mendadak.\n\nBagaimana cara kalian membuat pembagian yang tetap fleksibel?",
+      "author": {
+        "id": "salsa",
+        "name": "Salsa",
+        "initials": "SA",
+        "color": "#f6ebe4"
+      },
+      "createdAt": "2026-10-20T18:00:00.000Z",
+      "attachments": [],
+      "replies": []
+    },
+    {
+      "id": "t11",
+      "category": "Kebersihan",
+      "title": "Biar cucian nggak menumpuk di sudut kamar",
+      "body": "Mau mencari sistem sederhana untuk memisahkan pakaian yang perlu dicuci dan yang masih bisa dipakai.\n\nSaat ini semuanya masuk keranjang yang sama, jadi sering lupa kapan terakhir mencuci.\n\nApakah kalian punya hari khusus untuk mencuci atau menyesuaikan jumlah pakaian?",
+      "author": {
+        "id": "me",
+        "name": "P",
+        "initials": "P",
+        "color": "#eaf4e4"
+      },
+      "createdAt": "2026-10-20T17:00:00.000Z",
+      "attachments": [],
+      "replies": []
+    },
+    {
+      "id": "t12",
+      "category": "Memasak",
+      "title": "Ide bekal sederhana yang bisa disiapkan sebelum kuliah",
+      "body": "Pagi biasanya mepet, jadi butuh menu yang persiapannya singkat dan alatnya tidak banyak.\n\nAku ingin mulai membawa bekal beberapa hari dalam seminggu. Pagi hari kira-kira ada waktu dua puluh menit sebelum berangkat.\n\nApa menu andalan kalian dan bagian mana yang biasa disiapkan sebelumnya?",
+      "author": {
+        "id": "dimas",
+        "name": "Dimas",
+        "initials": "DM",
+        "color": "#eaf1e1"
+      },
+      "createdAt": "2026-10-20T16:00:00.000Z",
+      "attachments": [],
+      "replies": []
+    }
+  ]
+}
